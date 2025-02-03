@@ -1,0 +1,83 @@
+[
+  {
+    "createdAt": "2024-12-24T20:43:07.314Z",
+    "name": "FIFA World Cup",
+    "avatar": "https://cdn.kanobu.ru/articles/pics/tmp/images/2022/11/30/d7b2b9ba-ca3a-463c-9965-f833beab9d47.webp",
+    "prise": "20 million $",
+    "material": "GOLD",
+    "id": "1",
+    "athletId": "1"
+  },
+  {
+    "createdAt": "2024-12-23T23:37:25.492Z",
+    "name": "UEFA Champions League",
+    "avatar": "https://editorial.uefa.com/resources/025f-0fe0cd7f0734-a5aa8cb0c77f-1000/fbl-eur-c1-draw.jpeg",
+    "prise": "10 million $",
+    "material": "GOLD and COPPER",
+    "id": "2",
+    "athletId": "2"
+  },
+  {
+    "createdAt": "2024-12-24T08:36:04.232Z",
+    "name": "Copa América",
+    "avatar": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/NQY3A6RAZFAOLDWERPK5MKCN24.jpg",
+    "prise": "1 million $",
+    "material": "GOLD and COPPER",
+    "id": "3",
+    "athletId": "3"
+  },
+  {
+    "createdAt": "2024-12-24T08:55:54.278Z",
+    "name": "FA Cup ",
+    "avatar": "https://avatars.mds.yandex.net/i?id=d512f159e5458abaaf073d635e1f2f2e5f1c1644-4571053-images-thumbs&n=13",
+    "prise": "1 million $",
+    "material": "GOLD and SILVER",
+    "id": "4",
+    "athletId": "4"
+  },
+  {
+    "createdAt": "2024-12-24T11:25:37.513Z",
+    "name": "UEFA Europa League",
+    "avatar": "https://editorial.uefa.com/resources/025b-0effb7969765-8de5c9419083-1000/fbl-eur-c3-draw.jpeg",
+    "prise": "4 million $",
+    "material": "SILVER",
+    "id": "5",
+    "athletId": "5"
+  },
+  {
+    "createdAt": "2024-12-24T12:35:27.378Z",
+    "name": "Confederations Cup ",
+    "avatar": "https://i.bigenc.ru/resizer/resize?sign=BdkzlU9BaO2Pi786KezcOw&filename=vault/8b16fcb1ac069d2a316f4e6c1fdc7fa8.webp&width=1200",
+    "prise": "5 million $",
+    "material": "GOLD and SILVER",
+    "id": "6",
+    "athletId": "6"
+  },
+  {
+    "createdAt": "2024-12-24T03:09:15.790Z",
+    "name": "Coppa Italia",
+    "avatar": "https://avatars.mds.yandex.net/i?id=38f4c6dc98f24ea080b8213f0b3f342ae8813e93-4337913-images-thumbs&n=13",
+    "prise": "1 million $",
+    "material": "GOLD and SILVER",
+    "id": "7",
+    "athletId": "7"
+  },
+  {
+    "createdAt": "2024-12-24T13:13:54.227Z",
+    "name": "Copa del Rey",
+    "avatar": "https://daryo.uz/static/2022/12/image_47259-1.jpg",
+    "prise": "1 million $",
+    "material": "GOLD and SilVER",
+    "id": "8",
+    "athletId": "8"
+  },
+  {
+    "createdAt": "2024-12-24T13:13:54.227Z",
+    "name": "Copa del Rey",
+    "avatar": "https://daryo.uz/static/2022/12/image_47259-1.jpg",
+    "prise": "1 million $",
+    "material": "GOLD and SilVER",
+    "id": "8",
+    "athletId": "14"
+  }
+]
